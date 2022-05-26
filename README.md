@@ -1,7 +1,7 @@
 # Multi-task Classification using Denoise Auto-Encoder (MCDAE)
 A PyTorch implementation of the MCDAE
 
-Below is the dataset used in this repo... After downloading the datasets, you can put them in the folder `data/elec/`
+Below is the dataset used in this repo... After downloading the datasets, you can (create and) put them in the folder `data/elec/`
 
 * [Classification of power quality for power facility failure response](https://aihub.or.kr/opendata/66053/download)
 
