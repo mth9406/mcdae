@@ -56,5 +56,7 @@ optional arguments:
   --noise_scale NOISE_SCALE
                         scale noise
 ```
+# Model structure    
+![image](https://user-images.githubusercontent.com/51608554/170904333-ca6a3d60-3b3e-4d92-b84e-06bd2863fe25.png)
 
-Please run the "example_usage.ipynb" if you find anything hard to understannd. 
+Please run the "example_usage.ipynb" if you find anything hard to understand. 
